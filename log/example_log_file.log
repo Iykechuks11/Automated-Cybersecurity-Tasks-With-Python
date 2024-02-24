@@ -1,0 +1,9 @@
+
+2024-02-24 09:00:00 INFO User John_Doe logged in.
+2024-02-24 09:15:23 WARNING Attempt to access unauthorized resource by User John_Doe.
+2024-02-24 09:17:45 ERROR Database connection failed.
+2024-02-24 09:20:00 INFO User Jane_Smith logged in.
+2024-02-24 09:45:00 INFO User John_Doe logged out.
+2024-02-24 09:50:00 INFO User Jane_Smith accessed settings page.
+2024-02-24 10:00:00 ERROR Email service is not responding.
+2024-02-24 10:05:00 INFO User Jane_Smith logged out.
